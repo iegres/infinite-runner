@@ -1,4 +1,7 @@
 {
+  "name": "infinite-runner",
+  "description": "Simple endless runner game",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
